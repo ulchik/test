@@ -1,0 +1,28 @@
+example.com
+GET / HTTP/1.0
+Host: example.com
+
+example.com
+GET / HTTP/1.0
+Host: example.com
+
+example.com
+GET / HTTP/1.0
+Host: example.com
+
+example.com
+GET / HTTP/1.0
+Host: example.com
+
+example.com
+GET / HTTP/1.0
+Host: example.com
+
+example.com
+GET / HTTP/1.0
+Host: example.com
+
+example.com
+GET / HTTP/1.0
+Host: example.com
+
